@@ -25,4 +25,12 @@
   - [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) - Vue 3 `<script setup>` IDE support
   - [TailwindCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IDE support for Tailwind CSS
 
+## To Install!
+
+npm install
+
+## Development
+
+npm run dev
+
 ## Try it now!
